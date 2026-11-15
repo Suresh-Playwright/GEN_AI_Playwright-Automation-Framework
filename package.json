@@ -1,15 +1,27 @@
 {
+<<<<<<< HEAD
   "name": "playwrightautomation",
   "version": "1.0.0",
+=======
+  "name": "playwright-pom-framework",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> 3994d50 (Added Playwright automation tests)
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+<<<<<<< HEAD
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.6.2"
+=======
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+>>>>>>> 3994d50 (Added Playwright automation tests)
   }
 }
